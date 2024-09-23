@@ -6317,7 +6317,7 @@
 "006630","","b","/SAFileUpDocs/whnjs.htm","GET","<title>SoftArtisans FileUp 5\.0<\/title>","","","","","SoftArtisans FileUp help documentation found.","",""
 "006631","","b","/SAFileUpSamples/","GET","FileUp v5 Code Sample Index","","","","","SoftArtisans FileUp samples found, these may allowed file uploads.","",""
 "006633","","3","/cgi-bin/status_cgi","GET","Touchstone\sStatus","","","","","Arris Touchstone status program reveals potentially sensitive information.","",""
-"006634","","2","/docs/","GET","Apache Tomcat","","<h2>Documentation Index</\h2>","","","Tomcat Documentation found","",""
+"006634","","2","/docs/","GET","Apache Tomcat","","<h2>Documentation Index<\/h2>","","","Tomcat Documentation found","",""
 "006635","","013","/sites/all/libraries/tinymce/examples/","GET","example\susing\sjQuery","TinyMCE\sexamples","","","","Drupal install of TinyMCE examples found, check for file uploads.","",""
 "006636","","1","/notes.txt","GET","200","","","","","This might be interesting.","",""
 "006637","","1","/httpd.conf","GET","configuration\sfile","","200","","","Apache httpd.conf configuration file","",""
